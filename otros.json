@@ -1,0 +1,28 @@
+[{
+    "nombre":"Perrito Caliente",
+    "precio":"$ 800.00 cup",
+    "descripcion":"lindos gladiolos amarillos",
+    "referencia": "assets/4.webp"
+   },
+{
+    "nombre":"Marpacíficos",
+    "precio":"$ 400.00 cup",
+    "descripcion":"Verdes",
+    "referencia": "assets/1.webp"
+   },
+   {
+    "nombre":"Margaritas de la Urbe Tolon",
+    "precio":"$ 100.00 cup",
+    "descripcion":"Cultivadas en African Republic",
+    "referencia": "assets/3.webp"
+   },
+   
+   {
+    "nombre":"Rosas",
+    "precio":"$ 20.00 cup",
+    "descripcion":"Rosadas y verdes",
+    "referencia": "assets/2.webp"
+}
+
+
+]
