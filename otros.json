@@ -1,28 +1,14 @@
-[{
-    "nombre":"Perrito Caliente",
-    "precio":"$ 800.00 cup",
-    "descripcion":"lindos gladiolos amarillos",
-    "referencia": "assets/4.webp"
-   },
-{
-    "nombre":"Marpacíficos",
-    "precio":"$ 400.00 cup",
-    "descripcion":"Verdes",
-    "referencia": "assets/1.webp"
-   },
+[  {
+    "titular":"Declaración conjunta de iglesias evangélicas cubanas en torno al actual conflicto Hamás-Israel",
+    "noticia": "Las iglesias evangélicas cubanas firmaron una declaración conjunta en torno al conflicto Israel-Hamas. Para leer esta declaración puede dirigirse a la web oficial de las IBA Cuba"
+  },
    {
-    "nombre":"Margaritas de la Urbe Tolon",
-    "precio":"$ 100.00 cup",
-    "descripcion":"Cultivadas en African Republic",
-    "referencia": "assets/3.webp"
-   },
-   
-   {
-    "nombre":"Rosas",
-    "precio":"$ 20.00 cup",
-    "descripcion":"Rosadas y verdes",
-    "referencia": "assets/2.webp"
-}
-
+    "titular":"Celebración de la Convención Nacional",
+    "noticia": "Las IBA Cuba celebra su Convención este enero de 2024"
+  },
+  {
+    "titular":"Comprobacion inicial",
+    "noticia": "Las IBA Cuba celebra su Convención este enero de 2024"
+  },
 
 ]
